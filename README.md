@@ -42,7 +42,7 @@ CODE STRUCTURE
 ==============
 - 'main.cpp': Contains the user interface for interacting with the program.
 - 'Graph.hpp' and 'Graph.cpp': Implement the graph class, which includes methods for graph operations and Dijkstra's algorithm.
-- 'GraphBase.hpp': Contains the abstract base class definition with pure virtual functions for the graph, to be inherited the defined Graph class in Graph.hpp.
+- 'GraphBase.hpp': Contains the abstract base class prototypes with pure virtual functions for the graph, to be inherited the defined Graph class in 'Graph.hpp'.
 
 ACKNOLEDGEMENTS
 ===============
