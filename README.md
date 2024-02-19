@@ -1,10 +1,10 @@
 # Dijkstra's Algorithm
 README FILE
 
-AUTHORS:
-
-Jason Rodriguez
-Yaniel Gonzalez Velez
+AUTHORS
+=======
+Jason Rodriguez,
+Yaniel Gonzalez Velez,
 Carlos Caraballo
 
 This project consists of files that constructs a Graph data structure using an adjacency list implementation from C++ libraries to integrate Dijkstra's Algorithm that computes the shortest path between two points. 
