@@ -7,6 +7,8 @@ Jason Rodriguez,
 Yaniel Gonzalez Velez,
 Carlos Caraballo
 
+DESCRIPTION
+===========
 This project consists of files that constructs a Graph data structure using an adjacency list implementation from C++ libraries to integrate Dijkstra's Algorithm that computes the shortest path between two points. 
 The program consists of a Vertex class, Edge class, and Graph class. Dijkstra's Algorithm, with the assistance of a priority queue and map, enables efficient traversal of the graph to determine the shortest path.
 
