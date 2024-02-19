@@ -24,8 +24,8 @@ This project relies on a C++ compiler that supports the C++11 standard or later.
 
 Compilation
 ===========
-To compile the program, use the following command: 
-g++ -Wall -std=c++17 main.cpp Graph.cpp
+To compile the program, use the following command:  
+```g++ -Wall -std=c++17 main.cpp Graph.cpp```
 
 Input
 =====
